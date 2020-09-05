@@ -8,11 +8,10 @@
 
 
 ## 🌱 I’m currently learning ...
-- NLTK
-- Deep Learning
+- Golang
+- Artificial Intelligence
 - Spiders
 - Stem Python Library
-- Tor update details
 
 
 ## 💬 Ask me about ...
